@@ -1,10 +1,7 @@
 # sample-code
-── Models
-│ ├── EmotionCard.swift # swiftData数据模型
- ViewModels/
-│ └── DiagnosisViewModel.swift # 请求业务逻辑
-── Views
-│ ├── ReleaseInputView.swift # 情绪输入
-│ └── SettingsView.swift # 设置页面
 
-
+### 文件说明
+- **EmotionCard.swift**: SwiftData核心数据模型
+- **DiagnosisViewModel.swift**: 网络请求与业务逻辑处理
+- **ReleaseInputView.swift**: 情绪记录输入界面
+- **SettingsView.swift**: 应用设置页面
